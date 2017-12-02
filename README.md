@@ -12,3 +12,5 @@ click "load unpacked extension"
 select "facepace" folder
 
 it should now be enabled
+
+project by rebecca rui and kees van drongelen
