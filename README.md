@@ -1,7 +1,7 @@
 # facepace
 disable facebook scroll function
 
-google chrome extension
+browser extension
 
 go to extensions window
 
@@ -12,5 +12,3 @@ click "load unpacked extension"
 select "facepace" folder
 
 it should now be enabled
-
-project by rebecca rui and kees van drongelen
