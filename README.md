@@ -1,14 +1,9 @@
 # facepace
-disable facebook endless scroll function
 
-browser extension
+A browser extension for disabling the facebook endless scroll function.
 
-go to extensions window
-
-click on "developer mode"
-
-click "load unpacked extension"
-
-select "facepace" folder
-
-it should now be enabled
+1. go to extensions window
+2. click on "developer mode"
+3. click "load unpacked extension"
+4. select "facepace" folder
+5. restart browser
