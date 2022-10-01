@@ -1,5 +1,5 @@
 # facepace
-disable facebook scroll function
+disable facebook endless scroll function
 
 browser extension
 
