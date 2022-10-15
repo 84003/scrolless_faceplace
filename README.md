@@ -1,4 +1,4 @@
-# facepace
+# Scrolless Faceplace
 
 A browser extension for disabling the facebook endless scroll function.
 
