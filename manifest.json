@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "facepace",
+  "name": "Scrolless Faceplace",
   "version": "1.0",
-  "description": "Disable Facebook scroll function",
+  "description": "Disables the facebook endless scroll function.",
     "icons" : { "16": "icon-16.png",
                 "48": "icon-48.png",
                "128": "icon-128.png"
@@ -11,7 +11,7 @@
     "default_icon": "icon-128.png"
   },
   "content_scripts": [ {
-    "js": [ "jquery-2.1.3.min.js", "jquery.scrollend.js", "facepace.js" ],
+    "js": [ "jquery-2.1.3.min.js", "jquery.scrollend.js", "main.js" ],
     "matches": [ "http://*/*", "https://*/*", "file:///*/*"]
   }],
 
