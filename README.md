@@ -1,6 +1,6 @@
 # Scrolless Faceplace
 
-A browser extension for disabling the facebook endless scroll function.
+Browser extension for disabling the facebook endless scroll function.
 
 1. Go to extensions window
 2. Click "developer mode"
